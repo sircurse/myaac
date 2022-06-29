@@ -1,0 +1,8 @@
+{
+  "name": "otbr-virtual-appliance",
+  "version": "1.3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sircurse/myaac.git"
+  }
+}
